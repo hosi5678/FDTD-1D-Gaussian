@@ -5,6 +5,7 @@
 *.o
 *.exe
 *.csv
+.gitignore
 
 /bak/
 /png/
