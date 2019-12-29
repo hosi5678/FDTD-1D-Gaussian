@@ -1,0 +1,8 @@
+*.lnk
+*.mp4
+*.avi
+*.gif
+/bak/
+/png/
+/py/
+/sh/
