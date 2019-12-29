@@ -37,6 +37,7 @@ $(TARGET) : $(OBJECTS)
 	$(RM) *.csv
 	$(CC) $(CFLAGS) $^ $(LDLIBS) -o $@
 	./$(TARGET)
+	$(RM) *.o
 
 .PHONY : clean
 clean :
