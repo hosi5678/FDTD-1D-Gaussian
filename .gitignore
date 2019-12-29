@@ -1,0 +1,12 @@
+*.lnk
+*.mp4
+*.avi
+*.gif
+*.o
+*.exe
+*.csv
+
+/bak/
+/png/
+/py/
+/sh/
