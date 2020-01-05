@@ -5,8 +5,13 @@
 *.o
 *.exe
 *.csv
-
+*.py
+*.sh
+*.zip
+nkf_memo.txt
+/animation/
 /bak/
 /png/
 /py/
 /sh/
+main
